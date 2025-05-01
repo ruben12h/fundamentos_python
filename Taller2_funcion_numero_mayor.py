@@ -1,5 +1,5 @@
 
-numero = 1
+numero = 23
  
 if numero > 10:
      print("el numero es mayor que 10")
